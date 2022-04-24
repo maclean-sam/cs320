@@ -1,7 +1,7 @@
-## Sam Maclean
-## April 24, 2022
-## CS-320
-## SNHU
+### Sam Maclean
+### April 24, 2022
+### CS-320
+### SNHU
 
 ##### How can I ensure that my code, program, or software is functional and secure?
 I ensure my work is functional and secure by thoroughly testing every function and method that I created in my program. This can be done using JUnit tests when creating a Java program which easily allows you to view the amount of coverage for a project and allows you to create test cases. Test suites can also be used which can be done by software automation and can significantly cut down costs and boost profits for a business.
